@@ -5,8 +5,9 @@ React Native / Redux App with Firebase
 Please add your app firebaseconfig in App.js. 
 
 ```
+// Your app's Firebase configuration
 var config = {
-
+  
 };
 ```
 
